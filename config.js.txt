@@ -1,0 +1,7 @@
+const config = {
+    sqluser: 'username',
+    sqlpwd: 'password',
+    sqlserver: 'server', // You can use 'localhost\\instance' to connect to named instance
+    database: 'databasename',
+  };
+  module.exports = config;
